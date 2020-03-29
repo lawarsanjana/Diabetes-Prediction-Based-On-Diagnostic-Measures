@@ -14,6 +14,5 @@ Tools and Technology:
 Statistical concepts:
     1.	Logistic Regression
     2.	Normal distribution
-    3.	Jupyter Noteboo
 
 
